@@ -1,5 +1,6 @@
 <h1>Git, GitHub and SSH keys</h1>
 
+![Alt text](Git_Github_diagram.png "Image alt text")
 
 SSH keys are a standard protocol used to establish a secure shell session between remote computers over insecure networks, through cryptography. 
 
@@ -41,7 +42,7 @@ There are 5 main steps that are involved in the diagram above.
 
 •	Using nano. README.md opens up a word document file within the terminal to add your information 
 
-<h3>How to do the respository setup</h3>
+<h3>How to do the repository setup</h3>
 
 	git init 
 -initialises new repo on localhost
