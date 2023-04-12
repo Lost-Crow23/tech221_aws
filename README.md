@@ -9,7 +9,7 @@ There are 5 main steps that are involved in the diagram above.
 2.	Registering a padlock (GitHub)
 3.	Add private key to SSH register (Local)
 4.	Create a test repo (GitHub)
-5.	Use SSH to push changes (Local) r
+5.	Use SSH to push changes (Local) 
 
 <h3>Generating SSH keys?</h3>
 
